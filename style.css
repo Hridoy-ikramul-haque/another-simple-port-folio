@@ -1,0 +1,124 @@
+#name{
+    color: darkcyan;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 4%;
+    padding-left: 2%;
+    
+
+}
+section p{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkgrey;
+    padding-bottom: 3%;
+    
+}
+.link{
+    text-decoration: none;
+    border: 2px solid;
+    padding: 15px;
+    border-radius: 4px;
+    background-image: linear-gradient(5deg , DarkCyan ,DarkTurquoise);
+    color: white;
+    font-weight: 800px;
+    border-width: auto;
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.half-width img{
+    width: 100%;
+    
+    /* margin-top: 2px; */
+  
+}
+#para{
+    color: blueviolet;
+    text-align: center;
+    font-size: 35px;
+   
+    
+
+}
+.top-side{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.middle-side{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 25%;
+   
+}
+body{
+    margin: 0px;
+}
+#pad{
+    padding-right: 2%;
+}
+.last-khep{
+    width: 25%;
+    padding: 1%;
+    padding-bottom: 10%;
+    float: left;
+}
+#client{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 2%;
+}
+.name2{
+    text-align: center;
+    font-weight: 800;
+    font-size: 15px;
+    
+}
+#founder{
+    font-size: 17px;
+    color: orange;
+}
+#last-para{
+    /* border: 1px solid black; */
+    margin-left: 41%;
+    margin-right: 40%;
+    padding-left: 2px;
+    
+    text-align: center;
+    font-size: 15px;
+    text-indent: 50px;
+}
+#last-perek{
+   text-align: center;
+   border: 3px solid blanchedalmond;
+   margin-left: 30%;
+   margin-right: 30%;
+   background-image: linear-gradient(180deg ,DarkMagenta ,DarkSlateBlue);
+   margin-bottom: 10%;
+   border-radius: 3%;
+   
+}
+#leave{
+    font-size: 19px;
+    color: yellowgreen;
+}
+#e-mail{
+    font-size: 30px;
+    color: white;
+}
+#blue{
+    text-align: center;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    color: darkblue;
+}
+
+
+
